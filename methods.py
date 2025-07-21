@@ -8,3 +8,4 @@ class Teacher:
         print("teaching")
 o=Teacher()
 o.action()
+o.action()
