@@ -9,3 +9,4 @@ class Student:
 o=Student("Kurma","22481a05n0")
 print("name of the student:",o.name)
 print("roll no:",o.rollno)
+print("roll no:")
