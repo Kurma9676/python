@@ -9,4 +9,5 @@ class Teacher:
 o=Teacher()
 o.action()
 o.action()
+o.action()
 #calling method
